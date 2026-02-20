@@ -11,9 +11,13 @@ Data Preparation
 The dataset was prepared before visualization by:
 
 • Cleaning missing or irrelevant data
+
 • Organizing data into structured format
+
 • Standardizing values and categories
+
 • Exploring trends and relationships
+
 • Filtering relevant data for analysis
 
 Visualizations Created
