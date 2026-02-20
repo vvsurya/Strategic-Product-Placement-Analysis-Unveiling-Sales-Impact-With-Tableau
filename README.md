@@ -10,24 +10,25 @@ Data Preparation
 
 The dataset was prepared before visualization by:
 
-Cleaning missing or irrelevant data
-Organizing data into structured format
-Standardizing values and categories
-Exploring trends and relationships
-Filtering relevant data for analysis
+• Cleaning missing or irrelevant data
+• Organizing data into structured format
+• Standardizing values and categories
+• Exploring trends and relationships
+• Filtering relevant data for analysis
+
 Visualizations Created
 
-Avg Sales Volume by Product Category by Product Position
+- Avg Sales Volume by Product Category by Product Position
 
-Consumer Demographics vs Sales Volume
+- Consumer Demographics vs Sales Volume
 
-Product Category vs Price
+- Product Category vs Price
 
-Avg Sales Volume by Product Category by Season
+- Avg Sales Volume by Product Category by Season
 
-Foot Traffic by Avg Sales Volume
+- Foot Traffic by Avg Sales Volume
 
-Promotion of Product Category on Price and Sales Volum
+- Promotion of Product Category on Price and Sales Volume
 
 A Tableau Story was created to present insights in a structured format.
 
